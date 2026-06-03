@@ -1,0 +1,1036 @@
+repo_name: aldoyh/vue-now-ui-dashboard-laravel
+report_id: a0502f0c6a2085ec483a3b304c87e40b
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-10T18:19:09+00:00'
+requested_by: teamupdivision
+provider: github
+branch: master
+detected_tools_count: 72
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.7.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Element
+  description: A Vue 2.0-based desktop UI library for developers, designers and PMs
+  website_url: http://element.eleme.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/6421/12810740.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2350/638632.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.json
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: Laravel
+  description: A PHP Framework For Web Artisans
+  website_url: http://laravel.com/
+  version: 9.6.0
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/package.json
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/babel.config.js
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel
+  detection_source: Repo Metadata
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: 9.5.19
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.16.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Rollbar
+  description: Proactively discover, predict, and remediate errors.
+  website_url: https://rollbar.com/
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/328/default_3147629185038a15dd41907749544023633da1ea.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.28.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/docs/yarn.lock
+  detection_source: vue-now-ui-dashboard/docs/yarn.lock
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Copy
+  description: Accessible Cloud Storage from @Barracuda — Save your work. Save your
+    life.
+  website_url: http://copy.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2492/Ie9kefsM_normal.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/docs/package.json
+  detection_source: vue-now-ui-dashboard/docs/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: FullCalendar
+  description: A full-sized drag &amp; drop JavaScript event calendar
+  website_url: https://fullcalendar.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/5979/default_8b58ea1423b69bf123fae8f58e4887b9b4fdb1b4.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: Prism
+  description: An extensible syntax highlighter, built with modern web standards
+  website_url: https://prismjs.com/
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/docs/yarn.lock
+  detection_source: vue-now-ui-dashboard/docs/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: SweetAlert
+  description: A beautiful replacement for JavaScript's "alert"
+  website_url: https://sweetalert.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://ucarecdn.com/c4c55828-7bcf-4661-8f4f-52745636aafd/
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: '0.19'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/package.json
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: laravel-mix
+  description: A framework for web artisans.
+  website_url: https://laravel.com/docs/5.5/mix
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7945/h7umz7fz_normal.jpg
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/package.json
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: "@vue/cli-plugin-eslint"
+  description: Eslint plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-eslint
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: "@vue/cli-plugin-pwa"
+  description: Pwa plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-pwa
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18449/default_6dcac5c4efc2d5715bff50b0427ad187013cea59.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/docs/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: babel-plugin-component
+  description: Modular build plugin for babel
+  package_url: https://www.npmjs.com/babel-plugin-component
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16796/default_6764db7097827e48d5eb2880bd2e9b60a08a5b42.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/docs/package.json
+  detection_source: vue-now-ui-dashboard/docs/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/package.json
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 3.5.17
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: element-ui
+  description: A Component Library for Vue.js
+  package_url: https://www.npmjs.com/element-ui
+  version: 2.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16240/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: es6-promise
+  description: A lightweight library that provides tools for organizing asynchronous
+    code
+  package_url: https://www.npmjs.com/es6-promise
+  version: 4.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16051/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: eslint-loader
+  description: ESlint loader for webpack
+  package_url: https://www.npmjs.com/eslint-loader
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/package.json
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 4.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: fuse.js
+  description: Lightweight fuzzy-search
+  package_url: https://www.npmjs.com/fuse.js
+  version: 3.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17405/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: laravel-mix
+  description: Laravel Mix is an elegant wrapper around Webpack for the 80% use case
+  package_url: https://www.npmjs.com/laravel-mix
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17350/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/package.json
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 0.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/docs/yarn.lock
+  detection_source: vue-now-ui-dashboard/docs/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: ncp
+  description: Asynchronous recursive file copy utility
+  package_url: https://www.npmjs.com/ncp
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16261/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/docs/yarn.lock
+  detection_source: vue-now-ui-dashboard/docs/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+  - name: Denial of Service in node-sass
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9v62-24cr-58cx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: perfect-scrollbar
+  description: Minimalistic but perfect custom scrollbar plugin
+  package_url: https://www.npmjs.com/perfect-scrollbar
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18340/default_a605b2929de4c3bd4460a01b8dc144fde6aa5419.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: prismjs
+  description: Lightweight, robust, elegant syntax highlighting
+  package_url: https://www.npmjs.com/prismjs
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/docs/yarn.lock
+  detection_source: vue-now-ui-dashboard/docs/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+  vulnerabilities:
+  - name: Cross-Site Scripting in Prism
+    cve_id: CVE-2020-15138
+    cve_url: https://github.com/advisories/GHSA-wvhm-4hhf-97x9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.21.0
+  - name: Denial of service in prismjs
+    cve_id: CVE-2021-23341
+    cve_url: https://github.com/advisories/GHSA-h4hr-7fg3-h35w
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.23.0
+  - name: Regular Expression Denial of Service (ReDoS) in Prism
+    cve_id: CVE-2021-32723
+    cve_url: https://github.com/advisories/GHSA-gj77-59wh-66hg
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.24.0
+  - name: prismjs Regular Expression Denial of Service vulnerability
+    cve_id: CVE-2021-3801
+    cve_url: https://github.com/advisories/GHSA-hqhp-5p83-hx96
+    detected_date: Sep 21
+    severity: moderate
+    first_patched: 1.25.0
+- name: register-service-worker
+  description: Script for registering service worker, with hooks
+  package_url: https://www.npmjs.com/register-service-worker
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18539/default_e75c3c83e4af96462c99ddf6aabdef371444ed62.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: resolve-url-loader
+  description: Webpack loader that resolves relative paths in url
+  package_url: https://www.npmjs.com/resolve-url-loader
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16468/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/package.json
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: laravel-json-api/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: sweetalert2
+  description: A beautiful
+  package_url: https://www.npmjs.com/sweetalert2
+  version: 7.33.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18093/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: vee-validate
+  description: Template Based Validation Framework for Vue.js
+  package_url: https://www.npmjs.com/vee-validate
+  version: 2.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18263/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2021-04-27 11:44:51.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/vue-now-ui-dashboard/yarn.lock
+  detection_source: vue-now-ui-dashboard/package.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2021-04-27 11:44:51.000000000 Z
+- name: guzzlehttp/guzzle
+  description: Guzzle is a PHP HTTP client library
+  package_url: https://packagist.org/guzzlehttp/guzzle
+  version: 7.4.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: laravel/framework
+  description: The Laravel Framework
+  package_url: https://packagist.org/laravel/framework
+  version: 9.6.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: laravel/passport
+  description: Laravel Passport provides OAuth2 server support to Laravel
+  package_url: https://packagist.org/laravel/passport
+  version: 10.3.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: laravel/telescope
+  description: An elegant debug assistant for the Laravel framework
+  package_url: https://packagist.org/laravel/telescope
+  version: 4.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: laravel/tinker
+  description: Powerful REPL for the Laravel framework
+  package_url: https://packagist.org/laravel/tinker
+  version: 2.7.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: laravel/ui
+  description: Laravel UI utilities and presets
+  package_url: https://packagist.org/laravel/ui
+  version: 3.4.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: lcobucci/jwt
+  description: A simple library to work with JSON Web Token and JSON Web Signature
+  package_url: https://packagist.org/lcobucci/jwt
+  version: 4.1.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: mockery/mockery
+  description: Mockery is a simple yet flexible PHP mock object framework
+  package_url: https://packagist.org/mockery/mockery
+  version: 1.5.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Eugen Tudorache
+  last_updated_on: 2020-12-21 07:52:01.000000000 Z
+- name: nunomaduro/collision
+  description: Cli error handling for console/command-line PHP applications
+  package_url: https://packagist.org/nunomaduro/collision
+  version: 6.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: nunomaduro/larastan
+  description: Larastan - Discover bugs in your code without running it
+  package_url: https://packagist.org/nunomaduro/larastan
+  version: 2.1.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  version: 9.5.19
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
+- name: spatie/laravel-permission
+  description: Permission handling for Laravel 8.0 and up
+  package_url: https://packagist.org/spatie/laravel-permission
+  version: 5.5.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/aldoyh/vue-now-ui-dashboard-laravel/blob/master/laravel-json-api/composer.lock
+  detection_source: laravel-json-api/composer.json
+  last_updated_by: Team UPDIVISION
+  last_updated_on: 2022-04-13 12:38:45.000000000 Z
